@@ -1,0 +1,26 @@
+https://www.link-assistant.com/news/html-tags-for-seo.html
+
+
+1. HTML title
+	<title>Your Title Goes Here</title>
+2. Meta description tag
+	<meta name="description" content="Your description goes here">
+3. Headings
+	Headings (H1-H2) are used to split your page into sections or chapters. Each heading is like a small title within the page. In HTML, a heading looks like this:
+	<h1>Your heading goes here</h1>
+4. Alt attribute
+	The alt text attribute is a part of an image tag, and it provides a description for an image. In HTML it may look like this:
+	<img src="url" alt="Your image description goes here">
+5. Open Graph tags
+	Open Graph (OG) tags are placed in the <head> section of a page and allow any webpage to become a rich object in social networks. It was first introduced by Facebook in 2010 and further recognized by other major social media platforms (LinkedIn, Twitter, etc.)
+	In HTML, it can look like this:
+	<meta name="og:title" property="og:title" content="Your Open Graph Title Goes Here">
+	OG tags let you control how the information about your page is represented when shared via social channels. This possibility may help you enhance the performance of your links on social media, thus driving more click-throughs and increasing conversions.
+6. Robots tag
+	A robots tag is an element in the HTML of a page that informs search engines which pages on your site should be indexed and which should not. Its functions are similar to robots.txt, but robots.txt gives suggestions. Whereas robots tags give instructions.
+	<meta name="robots" content="index, follow">
+7. Canonical tag
+	When you have a few pages with identical content, you can use a canonical tag to tell search engines which page should be prioritized.
+	<link href="URL" rel="canonical">
+8. Schema markup
+	Schema markup is used to point out specific pieces of information on a page and Google can use these pieces of information to create rich snippets.
