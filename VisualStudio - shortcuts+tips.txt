@@ -1,0 +1,4 @@
+ctr+d - vybere všechny dané znaky a je možné je přepsat najednou (např. všechny ID)
+
+BEM - (Block, Element, Modifier) metoda zápisu kódu - pojmenování class v html a zároveň zápis tree structure souborů
+Teorie (cca 20min čtení zde): https://en.bem.info/methodology/quick-start/

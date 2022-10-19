@@ -1,1 +1,0 @@
-ctr+d - vybere všechny dané znaky a je možné je přepsat najednou (např. všechny ID)
