@@ -1,0 +1,18 @@
+V Visual Studio code mít zaplí "watch sass" extension (vytváří se následně po uložení složka css a css.map
+
+
+Partials - soubory _test.scss a následně se implementují do main.scss - @import test; (nahoře)
+
+Variables - Variables se definují v složce _variables.scss - zápis je $primary-color = red;
+
+Mixins - Mixins se definují v složce _config.scss - zápis je 
+@mixin test {
+color: red; 
+font-size: 16px;
+} 
+a následně se volají - 
+body {
+@include test
+}
+
+Daší možnosti SCSS (@extend - dědění class, if a else, funkce,
