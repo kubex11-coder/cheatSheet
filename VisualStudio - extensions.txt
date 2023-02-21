@@ -9,3 +9,4 @@ Nutné, basic
 Navíc, možnosti
 - Editor Config (.editorconfig file for global code format settings in team of devs) - návod zde: https://www.youtube.com/watch?v=EvGXkL31CpI
 - Rainbow csv
+- Material Icon Theme - lepší ikonky u ruznych typu souboru
