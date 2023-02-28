@@ -1,6 +1,6 @@
 Co potřebuji na start: - https://www.youtube.com/watch?v=d6emH27aWmg&list=PLQ8x_VWW6Akua8I5spV8nHIWlG6_tX6dx&index=3
 
-Chrome extension - React developer tool
+Chrome extension - React developer tool (zobrazení v developer tool v prohlížeči - komponenty pod sebou)
 Node.js - https://nodejs.org/en/
 Pro doplnování "HTML" v react filu je potřeba ve VS Code settings přidat tento řádek kódu: "emmet.includeLanguages": {
         "javascript": "javascriptreact"
