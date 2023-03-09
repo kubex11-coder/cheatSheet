@@ -5,3 +5,29 @@ Node.js - https://nodejs.org/en/
 Pro doplnování "HTML" v react filu je potřeba ve VS Code settings přidat tento řádek kódu: "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
+
+
+Základní příkazy v terminálnu (visualStudio)
+
+- npx create-react-app název-aplikace
+(vytvoří složku s potřebnými soubory pro react appku)
+
+- cd název-aplikace
+vlezu do nově vytvořené složky)
+
+npm start
+(rozjede lokálně v prohlížeči danou appku)
+
+
+
+Deploy proces : 
+Na hotovou aplikaci zadat příkaz - npm run build
+vytvoří se mi v projektu složka Build
+Daný obsah složky Build následně normálně hodím na web-hosting
+
+
+
+
+
+
+converting html,css into react app (krátký 5min tutorial na co si dát pozor) - https://www.youtube.com/watch?v=ldPpOM9uYHU
