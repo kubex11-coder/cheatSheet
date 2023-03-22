@@ -1,3 +1,4 @@
-Video tutorial zde : https://www.youtube.com/watch?v=xSittyBMq98&list=PLQ8x_VWW6AkuVs1oyWth3lXA4D4jxD_7F&index=9
+Na začátek je potřeba mít na PC stáhlý git a gitBash (terminál)
 
-test
+Video tutorial zde : https://www.youtube.com/watch?v=xSittyBMq98&list=PLQ8x_VWW6AkuVs1oyWth3lXA4D4jxD_7F&index=9
+Git commands zde : https://www.javatpoint.com/git-commands
