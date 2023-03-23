@@ -2,3 +2,14 @@ Na začátek je potřeba mít na PC stáhlý git a gitBash (terminál)
 
 Video tutorial zde : https://www.youtube.com/watch?v=xSittyBMq98&list=PLQ8x_VWW6AkuVs1oyWth3lXA4D4jxD_7F&index=9
 Git commands zde : https://www.javatpoint.com/git-commands
+
+Git commands basic : 
+
+git clone https://adresarepositářezgithuu (naklonuje do současné složky danou složku z repositáře na Githubu - je potřeba aby v složce do které klonuji nebyl žádný git použit)
+ls (zobrazí list co je v dané složce)
+git remote (zkontrolu nepojení na vzdálený repositář v GitHubu - při úspěchu se zobrazí "origin")
+git status (zobrazí aktivní úpravy které nejsou commitnuty nebo addnuty)
+git log --oneline (zobrazí na jendom řádku předchozí commity a pushe)
+git add . (přidá všechny změny do stage fáze)
+git commit -m"popisek daného commitu" (přidá všechny změny ze stage fáze do commitu)
+git push origin main (pushne všechny commity do vzdáleného repositáře na githubu - origin je basic jméno repositáře a - main je název dané branche - v případě více branchí se bude název měnit)
