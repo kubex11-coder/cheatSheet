@@ -24,3 +24,5 @@ https://www.link-assistant.com/news/html-tags-for-seo.html
 	<link href="URL" rel="canonical">
 8. Schema markup
 	Schema markup is used to point out specific pieces of information on a page and Google can use these pieces of information to create rich snippets.
+
+
