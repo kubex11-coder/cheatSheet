@@ -1,0 +1,13 @@
+  const value = "david"
+  const value2 = "harry"
+
+
+  const result1 = value && value2
+  // první je true a druhé jakékoli = se vrací druhá hodnota
+  // první je false a druhé jakékoli = vrací se první hodnota
+
+
+
+  const result2 = value || "tomas"
+  // první je true a druhé jakékoli = vrací první
+  // první je false, tak vrací druhou
