@@ -1,12 +1,20 @@
 Nutné, basic
 - Live Server
-- Live Sass Compiler - návod zde: https://www.youtube.com/watch?v=cpbN0YAW44g (na konci hlavně důležité)
 - Prettier (code formater) - návod zde: https://www.youtube.com/watch?v=8k-b-7rJAeU
 
 
+REACT extensions:
+- ES7 + REACT/REDUX/React-Native
+
+
+
+SCSS, SASS extensions
+-  Live Sass Compiler - návod zde: https://www.youtube.com/watch?v=cpbN0YAW44g (na konci hlavně důležité)
 
 
 Navíc, možnosti
 - Editor Config (.editorconfig file for global code format settings in team of devs) - návod zde: https://www.youtube.com/watch?v=EvGXkL31CpI
 - Rainbow csv
 - Material Icon Theme - lepší ikonky u ruznych typu souboru
+
+

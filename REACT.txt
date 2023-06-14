@@ -5,6 +5,7 @@ Node.js - https://nodejs.org/en/
 Pro doplnování "HTML" v react filu je potřeba ve VS Code settings přidat tento řádek kódu: "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
+extension ve VisualStudu - ES7 + REACT/REDUX/React-Native - pro automatickou tvorbu komponent atd..
 
 
 Základní příkazy v terminálnu (visualStudio)
@@ -28,6 +29,5 @@ Daný obsah složky Build následně normálně hodím na web-hosting
 
 
 
-
-
 converting html,css into react app (krátký 5min tutorial na co si dát pozor) - https://www.youtube.com/watch?v=ldPpOM9uYHU
+upload react app online - netlify.com tutorial zde: https://www.youtube.com/watch?v=Dvm9LzziuAU&list=PLQ8x_VWW6Aktmp_v1eYcCBbO5GovP_sHl&index=29
