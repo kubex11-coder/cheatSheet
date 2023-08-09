@@ -1,4 +1,9 @@
 ctr + d - vybere všechny dané znaky a je možné je přepsat najednou (např. všechny ID)
 
+templeate string ` - alt + 96
+dolar $ - alt + 36
+hranaté závorky [] - alt + 91, alt + 93 
+program závorky {} - alt + 123, alt + 125
+
 BEM - (Block, Element, Modifier) metoda zápisu kódu - pojmenování class v html a zároveň zápis tree structure souborů
 Teorie (cca 20min čtení zde): https://en.bem.info/methodology/quick-start/

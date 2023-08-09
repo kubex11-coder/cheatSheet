@@ -19,12 +19,16 @@ vlezu do nově vytvořené složky)
 npm start
 (rozjede lokálně v prohlížeči danou appku)
 
-
+npm install "packagename" --save.
+✅this command adds package to dependency
+npm install "packagename" --save-dev
+✅This command adds the package to devDependency
 
 Deploy proces : 
 Na hotovou aplikaci zadat příkaz - npm run build
 vytvoří se mi v projektu složka Build
 Daný obsah složky Build následně normálně hodím na web-hosting
+
 
 
 
