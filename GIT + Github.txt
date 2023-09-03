@@ -13,3 +13,4 @@ git log --oneline (zobrazí na jendom řádku předchozí commity a pushe)
 git add . (přidá všechny změny do stage fáze)
 git commit -m"popisek daného commitu" (přidá všechny změny ze stage fáze do commitu)
 git push origin main (pushne všechny commity do vzdáleného repositáře na githubu - origin je basic jméno repositáře a - main je název dané branche - v případě více branchí se bude název měnit)
+
