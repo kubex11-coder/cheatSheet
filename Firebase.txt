@@ -1,0 +1,13 @@
+Firebase:
+bezplatný limit na používání
+
+- vždy vytvořit produkční databázi a poté v sekci rules změnit hodnotu false na true
+- potřeba vytvořit "web-aplikaci" v projektu 
+
+napojení databáze na kód: (vzor v GitHub\REACT-Learning2\firebase-db\src\firebase\config.js)
+
+- npm install firebase (nejlepší verze 8.5 tedy npm install firebase@8.5)
+- vytvoření config.js
+ 	Následně musím v config.js naimportovat firebase:
+	- import firabase from "firebase/app"
+	- import "firebase/firestore"

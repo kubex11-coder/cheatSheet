@@ -29,6 +29,11 @@ Na hotovou aplikaci zadat příkaz - npm run build
 vytvoří se mi v projektu složka Build
 Daný obsah složky Build následně normálně hodím na web-hosting
 
+Vícestránkvý react web:
+- nainstalovar router package: "npm install react-router-dom@6"
+- v app.js se naimportuje: import { BrowserRouter, Routes, Route } from "react-router-dom"
+- následně se pracuje s více stránkami viz: https://www.youtube.com/watch?v=5I26FO1M7aE&list=PLQ8x_VWW6AkvURLFWrOZy1e8cZuyx_xN8&index=2
+- linky mezi stránkami se nedělají přes "a href="" ale je potřeba naimportovat - "import { Link } from "react-router-dom" a následně takto: https://www.youtube.com/watch?v=PMuT3R1mxzA&list=PLQ8x_VWW6AkvURLFWrOZy1e8cZuyx_xN8&index=4
 
 
 

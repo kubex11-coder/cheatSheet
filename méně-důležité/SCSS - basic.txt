@@ -1,4 +1,4 @@
-V Visual Studio code mít zaplí "watch sass" extension (vytváří se následně po uložení složka css a css.map
+V Visual Studio code mít zaplí a nainstalovaný "watch sass" extension (vytváří se následně po uložení složka css a css.map
 
 
 Partials - soubory _test.scss a následně se implementují do main.scss - @import test; (nahoře)
@@ -15,4 +15,4 @@ body {
 @include test
 }
 
-Daší možnosti SCSS (@extend - dědění class, if a else, funkce,
+Daší možnosti SCSS (@extend - dědění class, if a else, funkce atd...)

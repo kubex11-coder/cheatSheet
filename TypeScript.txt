@@ -1,0 +1,22 @@
+potřeba mít nainstalován node.js
+
+npm install -g typescript (nainstalování typescriptu)
+
+používat v visual studi code terminálu "cmd", powershell nezná všechny příkazy
+
+tsc "název souboru" (zkompiluje daný typescript soubor do JS)
+tsc "název souboru" --watch (zkompiluje po každém save v typescript souboru) nebo tsc -w "název souboru"¨
+
+pro více typescript souborů:
+tsc --init (vytvoří se soubor tsconfig.json)
+tsc (zkompiluje všechny typescript soubory do JS)
+tsc -w (zkompiluje po každém save všechny typescript soubory)
+
+tsconfig.json
+- exclude [], include [soubory i složky], files [pouze soubory] - vyloučí, zahrne dokumenty z hromadného kompilování
+- // "lib.js": ["dom", "es6", "dom.iterable", "scripthost"] - původně zakomentované pole - je možné přidávat a definovat knihovny (při odkomentování je potřea přidat základní 4 knihovny - viz přílad zde)
+- //outDir "./"  po odkomentování mohu zadat novou adresu kam se mají zkompilované .js files ukládat : příklad yt zde - https://www.youtube.com/watch?v=q3Ynl19Oa-E
+- //rootDir "./" po odkomentování mohu zadat novou adresu kde mají být zdrojové sobory .ts : příklad yt zde - https://www.youtube.com/watch?v=q3Ynl19Oa-E
+- //removeComments - po odkomentování se při kompilování nepřenesou do .js souborů komenty z .ts
+- "noEmmitOnError" : true, - po přidání se nebudou kompilovat soubory dokud je v .ts souboru chyba (i při tsc -w)
+- strict-type-checking-options - několik zakomentovaných pravidel pro strict checking - menší detail zde - https://www.youtube.com/watch?v=NZq9MTYGDI4

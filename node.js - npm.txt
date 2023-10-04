@@ -1,3 +1,0 @@
-NPM perfect 15min video tutorial : https://www.youtube.com/watch?v=P3aKRdUyr0s
-
-basic info + 10 best npm packages : https://www.turing.com/blog/top-npm-packages-for-node-js-developers/

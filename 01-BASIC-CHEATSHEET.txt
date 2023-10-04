@@ -1,4 +1,0 @@
-Jak tvořit projekty:
-
-Úplně primitvní stránky : html + scss (Bootstrap) + JavaScript + Git terminál - kontrola GitHub Desktop
-Mírně složitější stránky : REACT (html, scss, Javascript, npm) + Git
