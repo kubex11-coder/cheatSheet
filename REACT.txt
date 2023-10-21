@@ -11,7 +11,7 @@ extension ve VisualStudu - ES7 + REACT/REDUX/React-Native - pro automatickou tvo
 Základní příkazy v terminálnu (visualStudio)
 
 - npx create-react-app název-aplikace
-(vytvoří složku s potřebnými soubory pro react appku)
+(vytvoří složku s potřebnými soubory pro react appku).
 
 - cd název-aplikace
 vlezu do nově vytvořené složky)
