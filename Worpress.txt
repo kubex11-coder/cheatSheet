@@ -1,0 +1,4 @@
+Použití lokálu pro wordpress (localwp) zde:
+https://localwp.com/
+Mělo by být snad více možností pro práci s wordpressem.
+
