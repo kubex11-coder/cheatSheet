@@ -1,4 +1,9 @@
-Použití lokálu pro wordpress (localwp) zde:
+Použití lokálu pro wordpress:
+- localwp zde:
 https://localwp.com/
-Mělo by být snad více možností pro práci s wordpressem.
+- XAMPP zde:
+?????
+
+
+kkkk
 

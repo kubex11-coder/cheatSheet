@@ -7,7 +7,7 @@ bezplatný limit na používání
 napojení databáze na kód: (vzor v GitHub\REACT-Learning2\firebase-db\src\firebase\config.js)
 
 - npm install firebase (nejlepší verze 8.5 tedy npm install firebase@8.5)
-- vytvoření config.js
+- vytvoření souboru config.js
  	Následně musím v config.js naimportovat firebase:
 	- import firabase from "firebase/app"
 	- import "firebase/firestore"
