@@ -10,7 +10,6 @@ https://localwp.com/
 POUŽITÍ WP NA HOSTINGU:
 na hostingu - weods je potřeba mít verzi podporující instalaci aplikací (wordpress), spouští se pak `${URL Adresa}/wp-admin`
 
-Migrace webu (za použití pluginu all-in-one WP migration)
-YT tutoriál zde : https://www.youtube.com/watch?v=tIurrwfsCOg
-
-
+MIGRACE WEBU + HTTPS
+Migrace webu import a export (za použití pluginu all-in-one WP migration) : https://www.youtube.com/watch?v=tIurrwfsCOg
+Wordpress, wedos https nastavení: https://www.youtube.com/watch?v=wUwQ69syq_U
