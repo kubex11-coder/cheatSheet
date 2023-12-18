@@ -7,3 +7,10 @@ program závorky {} - alt + 123, alt + 125
 
 BEM - (Block, Element, Modifier) metoda zápisu kódu - pojmenování class v html a zároveň zápis tree structure souborů
 Teorie (cca 20min čtení zde): https://en.bem.info/methodology/quick-start/
+
+prázdný řádek nad (crtl + enter)
+prázdný řádek pod (ctrl + shift + enter)
+go to definition - pokud mám někde v kodu funkci a chci se dostat na její definování (rightclick myší a "go to definition" nebo f12)
+	- podobné je (shift + f12) - ukáže mi kde všude v projektu je daná funkce použita
+
+Pohybování řádku s kodem nahoru a dolů (alt + up or down)

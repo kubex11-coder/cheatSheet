@@ -1,9 +1,16 @@
+LOKÁLNÍ POUŽITÍ WORDPRESSU: (local, xampp)
+
 Použití lokálu pro wordpress:
 - localwp zde:
 https://localwp.com/
+
 - XAMPP zde:
 ?????
 
+POUŽITÍ WP NA HOSTINGU:
+na hostingu - weods je potřeba mít verzi podporující instalaci aplikací (wordpress), spouští se pak `${URL Adresa}/wp-admin`
 
-kkkk
+Migrace webu (za použití pluginu all-in-one WP migration)
+YT tutoriál zde : https://www.youtube.com/watch?v=tIurrwfsCOg
+
 
