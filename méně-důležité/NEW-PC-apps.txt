@@ -1,0 +1,4 @@
+Pokud nový PC tak potřeba:
+
+1. Přihlásit na github a stáhnout github desktop a naklonovat projekty do PC
+2. 
