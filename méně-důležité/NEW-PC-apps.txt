@@ -1,4 +1,10 @@
 Pokud nový PC tak potřeba:
 
 1. Přihlásit na github a stáhnout github desktop a naklonovat projekty do PC
-2. 
+2. TEST propojenosti - upravit cheatshet a pushnou na github
+3. Stáhnout VisualStudio Code
+4. Stáhnou Git (zkontrolovat propojení na github - git remote)
+4. Na Visual Studio postahovat všechy extensions (viz samostaný cheatsheet)
+5. Node.js pro react příkazy "npx a npm"
+6. Filezilla (FTP)
+7. Local (pro Wordpress lokální projekty)
