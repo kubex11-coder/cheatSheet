@@ -2,3 +2,6 @@ Framer motion (animace pro react):
 npm i "framer-motion"
 Web : https://www.framer.com/motion/animation/
 
+React bootstrap (+ návod)
+https://react-bootstrap.netlify.app/docs/getting-started/introduction
+Naimportovat knihovnu skrz "npm" a do index.js naimportovat css dle úvodní dokumentace.
