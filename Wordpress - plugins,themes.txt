@@ -1,2 +1,10 @@
+Themes:
+Astra (široký výběr templates)
+
+
 Plugins:
 Starter Templates (hromada startovních templates)
+Elementor (page builder)
+WPForms lite (na contact formuláře)
+unlimited elements for elementor (blog)
+- následně v post widgets kategory - "post widgets" nainstalovat ("post blog", "post list", "post pagination")
