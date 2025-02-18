@@ -1,10 +1,22 @@
-Themes:
+THEMES:
 Astra (široký výběr templates)
+Hello elementor (dobrý pro building from scratch)
 
 
-Plugins:
+PLUGINS:
 Starter Templates (hromada startovních templates)
 Elementor (page builder)
-WPForms lite (na contact formuláře)
-unlimited elements for elementor (blog)
-- následně v post widgets kategory - "post widgets" nainstalovat ("post blog", "post list", "post pagination")
+WPForms lite, MetForm (na contact formuláře)
+
+unlimited elements for elementor (blog pro elementor widgety) - následně v post widgets kategory - "post widgets" nainstalovat ("post blog", "post list", "post pagination")
+
+Elementor rozšíření free (ElementsKit Lite, Jeg Elementor Kit)
+UpdraftPlus - backupy hotových webů (na cloud - google drive)
+
+
+
+
+
+
+WEBY:
+Kitpapa.com - hotové weby, možné koupit
