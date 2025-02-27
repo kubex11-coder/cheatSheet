@@ -4,8 +4,10 @@ Použití lokálu pro wordpress:
 - localwp zde:
 https://localwp.com/
 
-- XAMPP zde:
-?????
+
+START tvorba wordpressu na hostingu:
+Při mazání starého webu z wedosu a instalaci wordpressu sem smazal všechny důležité adresáře a to způsobovalo od začátku problémy!!!
+wedos základní složky na FTP před instalací wordpress (www, tmp, session) (v www je pak doamins a subdom) a obnovit výchozí .htaccess- návod zde: https://kb.wedos.com/cs/webhosting/zakladni-informace-webhosting/adresarova-struktura-webhostingu/
 
 POUŽITÍ WP NA HOSTINGU:
 na hostingu - weods je potřeba mít verzi podporující instalaci aplikací (wordpress), spouští se pak `${URL Adresa}/wp-admin`
